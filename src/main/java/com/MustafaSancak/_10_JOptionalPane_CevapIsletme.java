@@ -9,7 +9,7 @@ public class _10_JOptionalPane_CevapIsletme {
         } else if (cevap == JOptionPane.NO_OPTION){
             JOptionPane.showMessageDialog(null, "Üzgünüm");
         } else{
-            JOptionPane.showMessageDialog(null, "Lütfen bir seçim yapın!");
+            JOptionPane.showMessageDialog(null, "Seçim yapılmadı!");
         }
 
     }
