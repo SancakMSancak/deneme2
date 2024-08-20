@@ -9,7 +9,7 @@ public class _11_NumbersSystem {
         System.out.println(binary);
 
         // Octal: 01234567
-        int octal = 402;
+        int octal = 0402;
         System.out.println(octal);
 
         // decimal: 0123456789
