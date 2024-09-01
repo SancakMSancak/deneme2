@@ -19,5 +19,5 @@ public class _13_JOptionalPane2 {
 
 
 
-    }
-}
+    } // end of PSVM
+} // end of class
